@@ -1,0 +1,36 @@
+Script started on Thu 04 Oct 2018 05:36:01 PM EDT
+]0;gko4@mtrx-node01pd:~/ws4[?1034h[gko4@mtrx-node01pd ws4]$ ws w4_prof_tweets.dat
+[38;5;9mBegin Testing the Program!
+--------------------------[0m
+
+Command Line: ws w4_prof_tweets.dat 
+
+Notifications
+=============
+
+Message
+ User  : jim
+ Tweet : Workshop 5 is cool
+
+Message
+ User  : harry
+ Reply : jim
+ Tweet : working on workshop 5 now
+
+Message
+ User  : dave
+ Tweet : what the ^#$%!
+
+Message
+ User  : john
+ Reply : harry
+ Tweet : I'm done
+
+
+[38;5;9m------------------------
+End Testing the Program![0m
+]0;gko4@mtrx-node01pd:~/ws4[gko4@mtrx-node01pd ws4]$ 
+]0;gko4@mtrx-node01pd:~/ws4[gko4@mtrx-node01pd ws4]$ ex[Kit
+exit
+
+Script done on Thu 04 Oct 2018 05:36:14 PM EDT

@@ -1,0 +1,6 @@
+What I have learned,
+1. designing and coding a composition relationship
+2. using std::string objects which i haven't learned at oop224.. but apparently I have to use string and string modules.. so I learned from google.
+3. string mudles: erase(), find(), substr()
+ 
+
